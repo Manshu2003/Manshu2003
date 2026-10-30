@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Manshu
-**Aspiring Web Developer|| Data Analyst || Manshu from India**
+**Aspiring Web Developer || Data Analyst || Manshu from India**
 
 Email Me 👉 ✉️ **manshuchaudhari499@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🌱 **I’m currently learning:** React.js, PHP, Mysql and Full Stack Web Development.
